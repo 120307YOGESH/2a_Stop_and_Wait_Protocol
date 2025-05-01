@@ -12,3 +12,4 @@ To write a python program to perform stop and wait protocol
 ## OUTPUT
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed.
+
